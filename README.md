@@ -28,12 +28,12 @@ How it works
 Help
 -------------------------
 Parameters to change
-*Name or id of the account you want to extract photos
+* Name or id of the account you want to extract photos
 	my $facebookAccountToGet = "xxxxxxxxxxxx";
-*Credential to connect on facebook if you need to connect to access the account
+* Credential to connect on facebook if you need to connect to access the account
 	my $facebookUser = '';
 	my $facebookPwd = '';
-*$exportUrlToFile if 1 export image url to url.txt else download image
+* $exportUrlToFile if 1 export image url to url.txt else download image
 	my $exportUrlToFile = 0;
-*debug
+* debug
 	my $debug = 0;
